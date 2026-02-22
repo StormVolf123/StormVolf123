@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-My name is Storm:) I am passionate about AI, machine learning, and backend development!
+My name is Storm:) I am passionate about AI, machine learning, and data foundation!
 
-- 🔭 Currently working on: A video app for arrangement speeches built with React Native & TypeScript.
-- 🌱 Learning: React and React Native for software developement & Machine Learning:)
-- 🎯 1 year goals: Learn ML and how to applied it to software!
+- 🔭 Currently working on: Full Data migration to Snowflake with MLOps, for one of our clients.
+- 🌱 Learning: Dimension Reduction
+- 🎯 1 year goals: MLOps!
